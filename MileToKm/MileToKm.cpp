@@ -5,5 +5,5 @@ using namespace std;
 int main(){    
     int a;    
     cin >> a;    
-    cout << fixed << setprecision(1) << double(a)*1.6<<endl;  
+    cout << fixed << setprecision(1) << double(a)*1.6<<endl;
 }
